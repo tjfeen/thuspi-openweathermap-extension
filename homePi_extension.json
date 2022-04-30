@@ -1,3 +1,4 @@
 {
-  "name": "OpenWeatherMap"
+  "name": "OpenWeatherMap",
+  "scopes": ["dashboard_write"]
 }
