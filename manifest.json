@@ -1,4 +1,10 @@
 {
-  "name": "OpenWeatherMap",
-  "scopes": ["dashboard_write"]
+    "name": "Weather widget",
+    "description": "Adds a weather widget to your dashboard!",
+    "scopes": ["dashboard_write"],
+    "features": {
+        "dashboard/widgets": [
+            "openweathermap"
+        ]
+    }
 }
